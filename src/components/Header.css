@@ -1,0 +1,45 @@
+.logo {
+  width: 100px;
+  height: 80px;
+  float: left;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #89f5fd;
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin: 0;
+  text-align: center;
+  margin: 0;
+}
+
+h3 {
+  font-size: 0.8rem;
+  margin: 0;
+  text-align: right;
+  margin: 0;
+  color: #06232b;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #29c0e6;
+  color: rgb(253, 253, 253);
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  float: right;
+}
+
+.title-slogan {
+  display: flex;
+  flex-direction: column;
+  align-items: right;
+}
